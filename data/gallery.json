@@ -1,0 +1,100 @@
+{
+  "heading": "From the cafe",
+  "lead": "A look at Fred's coffee, cakes, garden and Brockley Road home.",
+  "items": [
+    {
+      "image": "images/freds/mural/mural-fox-bear.jpg",
+      "alt": "New garden mural with a fox and bear",
+      "caption": "New garden mural"
+    },
+    {
+      "image": "images/freds/mural/mural-bears.jpg",
+      "alt": "New garden mural with three coffee bears",
+      "caption": "Patio mural vibes"
+    },
+    {
+      "image": "images/freds/instagram/matcha-latte.jpg",
+      "alt": "Good & Proper matcha latte at Fred's",
+      "caption": "Good & Proper matcha",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DKmKpXxI0YH/"
+    },
+    {
+      "image": "images/freds/instagram/sausage-rolls.jpg",
+      "alt": "Warm BBQ sausage rolls at Fred's",
+      "caption": "BBQ sausage rolls",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DOYF3XPjDkp/"
+    },
+    {
+      "image": "images/freds/instagram/lemon-poppy-cake.jpg",
+      "alt": "Vegan lemon poppy seed cake",
+      "caption": "Vegan lemon poppy cake",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/CDBWAT1nHCz/"
+    },
+    {
+      "image": "images/freds/instagram/iced-drinks.jpg",
+      "alt": "Iced drinks ready to go",
+      "caption": "Iced coffees & juice",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DaplIBJNhMP/"
+    },
+    {
+      "image": "images/freds/instagram/matcha-spritz.jpg",
+      "alt": "Matcha spritz for the garden",
+      "caption": "Matcha spritz",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DMkeX2NI4_B/"
+    },
+    {
+      "image": "images/freds/instagram/grab-and-go.jpg",
+      "alt": "Grab and go pastries",
+      "caption": "Daily grab & go",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/p/DJWeGULISVj/"
+    },
+    {
+      "image": "images/freds/gallery/maps-01.jpg",
+      "alt": "Fred's storefront on Brockley Road opposite Crofton Park station",
+      "caption": "358 Brockley Road",
+      "source": "Google Maps",
+      "url": "https://maps.app.goo.gl/69mfUyRDchGWMNWY8"
+    },
+    {
+      "image": "images/freds/gallery/maps-02.jpg",
+      "alt": "Chickpea salad bowl at Fred's",
+      "caption": "Fresh salads & bowls",
+      "source": "Google Maps",
+      "url": "https://maps.app.goo.gl/69mfUyRDchGWMNWY8"
+    },
+    {
+      "image": "images/freds/gallery/maps-03.jpg",
+      "alt": "Inside Fred's with hexagonal tiles and garden door",
+      "caption": "Inside, toward the garden",
+      "source": "Google Maps",
+      "url": "https://maps.app.goo.gl/69mfUyRDchGWMNWY8"
+    },
+    {
+      "image": "images/freds/gallery/maps-04.jpg",
+      "alt": "Coffee and bolo de arroz at Fred's",
+      "caption": "Coffee & bolo de arroz",
+      "source": "Google Maps",
+      "url": "https://maps.app.goo.gl/69mfUyRDchGWMNWY8"
+    },
+    {
+      "image": "images/freds/maps/yelp-interior-1.jpg",
+      "alt": "Fred's suntrap garden patio",
+      "caption": "Suntrap garden patio",
+      "source": "Yelp",
+      "url": "https://www.yelp.co.uk/biz/freds-london-3"
+    },
+    {
+      "image": "images/freds/maps/yelp-food.jpg",
+      "alt": "Cakes and food on the counter",
+      "caption": "Homemade cakes",
+      "source": "Yelp",
+      "url": "https://www.yelp.co.uk/biz/freds-london-3"
+    }
+  ]
+}

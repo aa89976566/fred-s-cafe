@@ -1,0 +1,85 @@
+{
+  "sourceNote": "A selection of what we serve at Fred's. Daily bakes and specials change, so ask at the counter for today's board.",
+  "categories": [
+    {
+      "id": "breakfast",
+      "title": "Breakfast",
+      "tone": "yellow",
+      "items": [
+        { "name": "Sourdough toast with scrambled eggs", "image": "images/freds/gallery/maps-04.jpg" },
+        { "name": "Sourdough with poached eggs", "image": "images/freds/latte-pastry.jpg" },
+        { "name": "Greek yogurt with granola", "image": "images/freds/instagram/grab-and-go.jpg" },
+        { "name": "Beans on toast", "image": "images/freds/maps/yelp-interior-2.jpg" },
+        { "name": "Avo on toast", "image": "images/freds/roasted-veg.jpg" },
+        { "name": "Fred's banana bread", "image": "images/freds/instagram/lemon-poppy-cake.jpg" }
+      ]
+    },
+    {
+      "id": "brunch",
+      "title": "Brunch & lunch",
+      "tone": "lime",
+      "items": [
+        { "name": "Roasted veg bowl", "image": "images/freds/roasted-veg.jpg" },
+        { "name": "Warm falafel salad", "image": "images/freds/gallery/maps-02.jpg" },
+        { "name": "Swedish flatbread sandwiches", "image": "images/freds/instagram/grab-and-go.jpg" },
+        { "name": "Toasties & bagels", "image": "images/freds/latte-pastry.jpg" },
+        { "name": "BBQ sausage roll", "image": "images/freds/instagram/sausage-rolls.jpg" }
+      ]
+    },
+    {
+      "id": "bakery",
+      "title": "Cakes & bakery",
+      "tone": "sky",
+      "items": [
+        { "name": "Homemade cakes", "image": "images/freds/instagram/lemon-poppy-cake.jpg" },
+        { "name": "Vegan cakes & bakes", "image": "images/freds/maps/yelp-food.jpg" },
+        { "name": "Croissants & pastries", "image": "images/freds/latte-pastry.jpg" },
+        { "name": "Bolo de arroz", "image": "images/freds/gallery/maps-04.jpg" },
+        { "name": "Banana & Nutella blondie", "image": "images/freds/instagram/grab-and-go.jpg" }
+      ]
+    },
+    {
+      "id": "coffee",
+      "title": "Coffee",
+      "tone": "yellow",
+      "items": [
+        { "name": "Allpress espresso drinks", "image": "images/freds/latte-pastry.jpg" },
+        { "name": "Flat white, latte, americano & cappuccino", "image": "images/freds/gallery/maps-04.jpg" },
+        { "name": "Iced latte", "image": "images/freds/instagram/iced-drinks.jpg" },
+        { "name": "Alternative milks available", "image": "images/freds/instagram/matcha-spritz.jpg" }
+      ]
+    },
+    {
+      "id": "hot-drinks",
+      "title": "Hot drinks",
+      "tone": "lime",
+      "items": [
+        { "name": "Good & Proper matcha", "image": "images/freds/instagram/matcha-latte.jpg" },
+        { "name": "Chai latte", "image": "images/freds/latte-pastry.jpg" },
+        { "name": "Hot chocolate", "image": "images/freds/instagram/matcha-spritz.jpg" },
+        { "name": "Tea", "image": "images/freds/maps/yelp-interior-2.jpg" }
+      ]
+    },
+    {
+      "id": "cold-drinks",
+      "title": "Cold drinks",
+      "tone": "sky",
+      "layout": "list",
+      "featuredImage": "images/freds/instagram/iced-drinks.jpg",
+      "items": [
+        { "name": "Fresh juices" },
+        { "name": "San Pellegrino" },
+        { "name": "Cawston Press sparkling elderflower" }
+      ]
+    },
+    {
+      "id": "kids",
+      "title": "Kids",
+      "tone": "yellow",
+      "layout": "list",
+      "items": [
+        { "name": "Kids menu available" }
+      ]
+    }
+  ]
+}

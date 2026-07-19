@@ -1,0 +1,42 @@
+{
+  "heading": "What neighbours say",
+  "sourcesNote": "Quotes from Google Maps / Yelp reviews of Fred's, Crofton Park.",
+  "reviews": [
+    {
+      "quote": "Excellent coffee and food. The breakfast banana bread is amazing. Very friendly place with great service and atmosphere. It's a real asset to the local community. The garden at the back is a real suntrap in spring and summer too.",
+      "author": "V. S.",
+      "source": "Google",
+      "stars": 5
+    },
+    {
+      "quote": "I won't have a coffee in Crofton Park unless it's from Fred's. The BBQ sausage roll is legendary. The service is absolutely top notch too with the nicest baristas!",
+      "author": "Matt Y.",
+      "source": "Yelp",
+      "stars": 5
+    },
+    {
+      "quote": "Absolutely love this coffee shop, such friendly staff and a very family friendly coffee shop who are always super tolerant of buggies, babies and toddlers. Delicious flatbreads and selection of cakes particularly noteworthy.",
+      "author": "K. L.",
+      "source": "Google",
+      "stars": 5
+    },
+    {
+      "quote": "Fred's is great, delicious sandwiches and amazing coffee. The suntrap garden at the back is amazing in the summer. Always busy.",
+      "author": "Neighbour",
+      "source": "Google",
+      "stars": 5
+    },
+    {
+      "quote": "I love Fred's! The drinks I've had there have all been good, the staff are friendly, and there is a good vibe for working. Nice music too.",
+      "author": "Sister C.",
+      "source": "Yelp",
+      "stars": 5
+    },
+    {
+      "quote": "Great choice of food from poached eggs to the speciality Swedish flatbread sandwiches. An amazing selection of cakes and they serve Allpress coffee.",
+      "author": "Local guest",
+      "source": "Google",
+      "stars": 5
+    }
+  ]
+}

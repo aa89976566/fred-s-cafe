@@ -1,0 +1,20 @@
+{
+  "id": "garden-mural-2026-originals",
+  "enabled": true,
+  "eyebrow": "Garden drop",
+  "title": "Our patio just entered its main-character era",
+  "body": "Fresh mural magic just landed in the outdoor seating. Fox energy, bear hugs, and coffee-date vibes painted right onto the fence. Suntrap seats are calling. Come sip, scroll, and stay awhile.",
+  "ctaLabel": "Come see it IRL",
+  "ctaHref": "#visit",
+  "secondaryLabel": "Maybe later",
+  "images": [
+    {
+      "src": "images/freds/mural/mural-fox-bear.jpg",
+      "alt": "New garden mural with a fox writing at a cafe table and a bear holding a tea tray"
+    },
+    {
+      "src": "images/freds/mural/mural-bears.jpg",
+      "alt": "New garden mural with three bears sharing coffee under painted trees"
+    }
+  ]
+}

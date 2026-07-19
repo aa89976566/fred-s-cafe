@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Fred's Community Cafe in Crofton Park, London</title>
+  <meta name="description" content="Fred's cafe at 358 Brockley Road, Crofton Park. Allpress coffee, homemade cakes, suntrap garden patio and neighbourhood gatherings opposite Crofton Park station.">
+  <meta property="og:title" content="Fred's Community Cafe in Crofton Park">
+  <meta property="og:description" content="Allpress coffee, homemade cakes, suntrap garden and neighbourhood events opposite Crofton Park station.">
+  <meta property="og:image" content="images/freds/storefront-cover.jpg">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fragment+Mono&family=Sora:wght@400;500;600&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/freds.css?v=20260719a">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23b8d170' width='100' height='100' rx='22'/><text x='50' y='66' text-anchor='middle' font-size='52' fill='%23171417' font-family='Georgia' font-weight='700'>F</text></svg>">
+</head>
+<body class="home">
+  <header class="site-header" id="nav">
+    <div class="nav-inner">
+      <a href="#top" class="nav-mark" aria-label="Fred's home">Fred<span>'</span>s</a>
+      <nav class="site-nav" id="navLinks" aria-label="Primary">
+        <a href="#top" aria-current="page">Home</a>
+        <a href="#about">About</a>
+        <a href="#crew">Crew</a>
+        <a href="menu.html">Menu</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#events">Events</a>
+        <a href="#visit">Visit</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" type="button" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-label="Fred's cafe">
+      <div class="hero__media">
+        <img
+          src="images/freds/storefront-cover.jpg"
+          alt="Fred's green script fascia sign above the awning at 358 Brockley Road"
+          width="1600"
+          height="1372"
+          fetchpriority="high"
+        >
+      </div>
+      <div class="hero__shade" aria-hidden="true"></div>
+      <div class="hero__inner">
+        <p class="hero__brand">Fred<span>'</span>s</p>
+        <h1 class="hero__title">A community cafe for Crofton Park</h1>
+        <p class="hero__lead">
+          Named after Gregg's father, Fred. Allpress coffee, homemade bakes and a suntrap garden opposite the station.
+        </p>
+        <div class="hero__cta">
+          <a class="btn btn--orange" href="#crew">Meet the crew</a>
+          <a class="btn btn--ghost" href="#events">What's on</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="band band--white" aria-label="Community pathways">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">Community first</p>
+          <h2>Built for neighbours, not just coffee runs</h2>
+        </header>
+        <div class="palette-row reveal">
+          <article>
+            <h3>Neighbours</h3>
+            <p>A family-friendly hub for SE4 locals, laptop workers, buggies and station dashers alike.</p>
+          </article>
+          <article>
+            <h3>Gatherings</h3>
+            <p>Brunches, workshops and catch-ups. Message us if you want to host something at Fred's.</p>
+          </article>
+          <article>
+            <h3>Garden</h3>
+            <p>Our suntrap patio out back is where community slows down over cake and conversation.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="band band--lime" id="about">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">About Fred's</p>
+          <h2>A neighbourhood cafe with community at the heart</h2>
+        </header>
+        <div class="split">
+          <figure class="split__photo reveal">
+            <img src="images/freds/gallery/maps-03.jpg" alt="Inside Fred's looking toward the garden door" width="1200" height="900" loading="lazy">
+          </figure>
+          <div class="split__copy reveal">
+            <h3>Named after Gregg's father, opened for Crofton Park.</h3>
+            <p>
+              Fred's sits at 358 Brockley Road opposite the station. Founders Gregg Boxall and Alain Haddad
+              built a place for Allpress coffee, Swedish flatbreads, vegan bakes, free Wi-Fi and the garden suntrap.
+            </p>
+            <div class="chip-row" id="amenityChips"></div>
+            <a class="btn btn--navy" href="#crew">Meet the crew</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="band band--yellow" id="crew">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">People</p>
+          <h2 id="crewHeading">The crew</h2>
+          <p class="band__lead" id="crewLead">The people behind Fred's, from founders to the baristas neighbours love.</p>
+        </header>
+        <div class="crew-grid" id="crewGrid"></div>
+        <p class="crew-note" id="crewNote"></p>
+      </div>
+    </section>
+
+    <section class="band band--white" id="gallery">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">Gallery</p>
+          <h2>From the cafe</h2>
+          <p class="band__lead">A look at Fred's coffee, cakes, garden and Brockley Road home.</p>
+        </header>
+        <div class="gallery-grid" id="galleryGrid"></div>
+        <p style="margin:1.2rem 0 0">
+          <a class="btn btn--ink" href="https://www.instagram.com/fredslondon/" target="_blank" rel="noopener noreferrer">Follow @fredslondon</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="band band--sky" id="reviews">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">Google Maps · Yelp</p>
+          <h2>What neighbours say</h2>
+          <p class="band__lead">Loved locally for coffee, cakes, friendly staff and the garden.</p>
+        </header>
+        <div class="review-grid" id="reviewGrid"></div>
+      </div>
+    </section>
+
+    <section class="band band--yellow" id="events">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">Community</p>
+          <h2>What's on</h2>
+          <p class="band__lead">Garden brunches, family mornings and gatherings at Fred's.</p>
+        </header>
+        <div class="events-board" id="eventsBoard" aria-live="polite"></div>
+        <p style="margin:1.2rem 0 0">
+          <a class="btn btn--orange" id="eventsCta" href="https://www.instagram.com/fredslondon/" target="_blank" rel="noopener noreferrer">
+            Message @fredslondon
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <section class="band band--white" id="visit">
+      <div class="band__inner">
+        <header class="band__head">
+          <p class="eyebrow">Find us</p>
+          <h2>Visit Fred's</h2>
+        </header>
+        <div class="visit-grid">
+          <div class="reveal">
+            <p style="margin:0;font-size:1.25rem;font-weight:700;line-height:1.4">
+              358 Brockley Road<br>Crofton Park<br>London SE4 2BY
+            </p>
+            <p style="margin:0.8rem 0 0;color:var(--muted)">
+              Opposite Crofton Park station. Grab-and-go for the train, or a slow sit in the garden.
+            </p>
+            <table class="hours-table" id="hoursTable">
+              <tbody>
+                <tr><td>Monday to Friday</td><td>8:00 to 16:00</td></tr>
+                <tr><td>Saturday to Sunday</td><td>8:30 to 16:00</td></tr>
+              </tbody>
+            </table>
+            <div class="visit-actions">
+              <a class="btn btn--navy" href="https://maps.app.goo.gl/69mfUyRDchGWMNWY8" target="_blank" rel="noopener noreferrer">Open in Maps</a>
+              <a class="btn btn--ghost" href="tel:+442038023166">020 3802 3166</a>
+              <a class="btn btn--ghost" href="mailto:info@fredslondon.com">Email</a>
+            </div>
+          </div>
+          <figure class="visit-photo reveal">
+            <img src="images/freds/gallery/maps-01.jpg" alt="Fred's storefront on Brockley Road with Allpress A-frame sign" width="1200" height="1600" loading="lazy">
+          </figure>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <div class="brand">Fred<span>'</span>s</div>
+      <div class="site-footer__meta">
+        <span>358 Brockley Rd · London SE4 2BY</span>
+        <a href="menu.html">Menu</a>
+        <a href="https://www.instagram.com/fredslondon/" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="https://www.facebook.com/FredsSe4" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://maps.app.goo.gl/69mfUyRDchGWMNWY8" target="_blank" rel="noopener noreferrer">Google Maps</a>
+        <span>© <span id="year"></span> Fred's Crofton Park</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="announce" id="announceModal" hidden>
+    <div class="announce__backdrop" data-announce-close tabindex="-1"></div>
+    <div class="announce__panel" role="dialog" aria-modal="true" aria-labelledby="announceTitle">
+      <button class="announce__close" type="button" data-announce-close aria-label="Close announcement">✕</button>
+      <div class="announce__media" id="announceMedia"></div>
+      <div class="announce__copy">
+        <p class="announce__eyebrow" id="announceEyebrow"></p>
+        <h2 class="announce__title" id="announceTitle"></h2>
+        <p class="announce__body" id="announceBody"></p>
+        <div class="announce__actions">
+          <a class="btn btn--orange" id="announceCta" href="#visit">Come see it IRL</a>
+          <button class="btn btn--ghost announce__later" type="button" data-announce-close id="announceLater">Maybe later</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/freds.js"></script>
+</body>
+</html>

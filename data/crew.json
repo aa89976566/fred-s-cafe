@@ -1,0 +1,35 @@
+{
+  "heading": "The crew",
+  "lead": "Fred's is named after Gregg's father. Here are the people on public record who built and steer the cafe. Our baristas are the friendly faces neighbours praise every day. Names from the counter are not listed publicly yet.",
+  "note": "Founders and company roles from Companies House and The Chef Foundation. Front-of-house crew names welcome via @fredslondon.",
+  "members": [
+    {
+      "name": "Gregg Boxall",
+      "role": "Founder",
+      "bio": "Co-founded Fred's with Alain Haddad. The cafe is named after Gregg's father, Fred. Gregg is the person with significant control of Fred's London Limited.",
+      "tone": "yellow",
+      "sources": ["The Chef Foundation", "Companies House"]
+    },
+    {
+      "name": "Alain Haddad",
+      "role": "Co-founder",
+      "bio": "Builder and businessman who launched Fred's as a joint venture with Gregg, turning 358 Brockley Road into a neighbourhood coffee shop.",
+      "tone": "lime",
+      "sources": ["The Chef Foundation", "Companies House"]
+    },
+    {
+      "name": "Annie Haddad",
+      "role": "Director",
+      "bio": "Current director of Fred's London Limited, helping keep the Crofton Park cafe running for neighbours and travellers alike.",
+      "tone": "sky",
+      "sources": ["Companies House"]
+    },
+    {
+      "name": "The baristas",
+      "role": "Front of house",
+      "bio": "The crew behind the Allpress coffee, cakes and warm welcome. Guests often shout out the nicest baristas in SE4. Individual names are not published online yet.",
+      "tone": "yellow",
+      "sources": ["Google Maps", "Yelp"]
+    }
+  ]
+}

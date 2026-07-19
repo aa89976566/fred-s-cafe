@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Menu | Fred's Cafe, Crofton Park</title>
+  <meta name="description" content="Fred's menu at 358 Brockley Road: breakfast, brunch, Allpress coffee, cakes, flatbreads and cold drinks.">
+  <meta property="og:title" content="Menu | Fred's Cafe">
+  <meta property="og:description" content="Breakfast, brunch, Allpress coffee, homemade cakes and Swedish flatbreads in Crofton Park.">
+  <meta property="og:image" content="images/freds/latte-pastry.jpg">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fragment+Mono&family=Sora:wght@400;500;600&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/freds.css?v=20260719a">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23b8d170' width='100' height='100' rx='22'/><text x='50' y='66' text-anchor='middle' font-size='52' fill='%23171417' font-family='Georgia' font-weight='700'>F</text></svg>">
+</head>
+<body>
+  <header class="site-header is-solid" id="nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-mark" aria-label="Fred's home">Fred<span>'</span>s</a>
+      <nav class="site-nav" id="navLinks" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#crew">Crew</a>
+        <a href="menu.html" aria-current="page">Menu</a>
+        <a href="index.html#gallery">Gallery</a>
+        <a href="index.html#events">Events</a>
+        <a href="index.html#visit">Visit</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" type="button" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="page-hero__inner">
+        <p class="eyebrow">Fred's · Crofton Park</p>
+        <h1>Menu</h1>
+        <p>
+          Breakfast, brunch, Allpress coffee, homemade cakes and Swedish flatbreads.
+          Daily bakes change, so ask at the counter for today's board.
+        </p>
+      </div>
+    </section>
+
+    <section class="menu-page">
+      <div class="menu-page__inner">
+        <p class="menu-source" id="menuSource"></p>
+        <div id="menuSections"></div>
+        <div class="menu-note reveal">
+          <p>
+            For today's specials, message
+            <a href="https://www.instagram.com/fredslondon/" target="_blank" rel="noopener noreferrer">@fredslondon</a>
+            or email
+            <a href="mailto:info@fredslondon.com">info@fredslondon.com</a>.
+          </p>
+          <a class="btn btn--navy" href="index.html#visit">Plan your visit</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <div class="brand">Fred<span>'</span>s</div>
+      <div class="site-footer__meta">
+        <span>358 Brockley Rd · London SE4 2BY</span>
+        <a href="index.html">Home</a>
+        <a href="https://www.instagram.com/fredslondon/" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="https://www.facebook.com/FredsSe4" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://maps.app.goo.gl/69mfUyRDchGWMNWY8" target="_blank" rel="noopener noreferrer">Google Maps</a>
+        <span>© <span id="year"></span> Fred's Crofton Park</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/freds.js"></script>
+</body>
+</html>

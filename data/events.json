@@ -1,0 +1,63 @@
+{
+  "note": "Community events board, edit freely. Inspired by Fred's garden patio & neighbourhood vibe from Google/Instagram.",
+  "cta": {
+    "label": "Host an event: DM @fredslondon",
+    "href": "https://www.instagram.com/fredslondon/"
+  },
+  "events": [
+    {
+      "id": "garden-brunch",
+      "date": "2026-07-26",
+      "time": "10:00 to 13:00",
+      "title": "Sunday Garden Brunch",
+      "place": "Suntrap garden patio",
+      "description": "Allpress coffee, warm sausage rolls and cakes in the back garden, the suntrap neighbours rave about.",
+      "tag": "Weekly"
+    },
+    {
+      "id": "kids-craft",
+      "date": "2026-08-02",
+      "time": "11:00 to 12:30",
+      "title": "Little Makers Morning",
+      "place": "Inside Fred's",
+      "description": "Buggy-friendly craft hour for little SE4 neighbours. Grab a flat white while the kids make.",
+      "tag": "Family"
+    },
+    {
+      "id": "matcha-workshop",
+      "date": "2026-08-09",
+      "time": "14:00 to 15:30",
+      "title": "Good & Proper Matcha Tasting",
+      "place": "Counter + garden",
+      "description": "From Instagram to the cup, whisk, pour and taste our matcha latte and Matcha Spritz.",
+      "tag": "Workshop"
+    },
+    {
+      "id": "book-swap",
+      "date": "2026-08-16",
+      "time": "12:00 to 16:00",
+      "title": "SE4 Book Swap",
+      "place": "Garden patio",
+      "description": "Bring a book, take a book. Soft jazz, cake, free Wi-Fi and community chat in the garden.",
+      "tag": "Community"
+    },
+    {
+      "id": "open-mic",
+      "date": "2026-08-23",
+      "time": "15:00 to 17:00",
+      "title": "Garden Open Mic",
+      "place": "Garden patio",
+      "description": "Acoustic sets and spoken word from Crofton Park & Brockley. Sign up on the day or DM @fredslondon.",
+      "tag": "Music"
+    },
+    {
+      "id": "loyalty-meet",
+      "date": "2026-08-30",
+      "time": "09:00 to 11:00",
+      "title": "Regulars' Morning Meet",
+      "place": "Inside Fred's",
+      "description": "Coffee for the early crew, loyalty card punch, laptop Wi-Fi, and a wave to the neighbours.",
+      "tag": "Social"
+    }
+  ]
+}

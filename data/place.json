@@ -1,0 +1,81 @@
+{
+  "name": "Fred's",
+  "tagline": "Neighbourhood cafe & community hub opposite Crofton Park station",
+  "address": {
+    "line1": "358 Brockley Road",
+    "area": "Crofton Park",
+    "city": "London",
+    "postcode": "SE4 2BY",
+    "full": "358 Brockley Road, Crofton Park, London SE4 2BY"
+  },
+  "geo": {
+    "lat": 51.455104,
+    "lng": -0.03736
+  },
+  "phone": "020 3802 3166",
+  "phoneHref": "tel:+442038023166",
+  "email": "info@fredslondon.com",
+  "mapsUrl": "https://maps.app.goo.gl/69mfUyRDchGWMNWY8",
+  "instagram": "https://www.instagram.com/fredslondon/",
+  "facebook": "https://www.facebook.com/FredsSe4",
+  "hours": [
+    {
+      "days": "Monday to Friday",
+      "time": "8:00 to 16:00"
+    },
+    {
+      "days": "Saturday to Sunday",
+      "time": "8:30 to 16:00"
+    }
+  ],
+  "amenities": [
+    "Free Wi-Fi",
+    "Garden patio / suntrap",
+    "Family & buggy friendly",
+    "Vegan options",
+    "Loyalty card",
+    "Card payments",
+    "Laptop-friendly seating"
+  ],
+  "highlights": [
+    "Allpress espresso coffee",
+    "Good & Proper matcha",
+    "Homemade cakes & croissants",
+    "Swedish flatbread sandwiches",
+    "BBQ sausage rolls",
+    "Opposite Crofton Park station",
+    "Seasonal iced specials"
+  ],
+  "story": "Fred's is a family-friendly community cafe on Brockley Road, named after founder Gregg Boxall's father. Neighbours come for fresh cakes, in-house bakes, flatbread sandwiches, salads and a suntrap garden out back.",
+  "founding": {
+    "namedAfter": "Gregg Boxall's father, Fred",
+    "founders": ["Gregg Boxall", "Alain Haddad"],
+    "source": "https://thecheffoundation.com/the-birth-of-freds/",
+    "company": {
+      "name": "Fred's London Limited",
+      "number": "09878698",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/09878698"
+    }
+  },
+  "ratings": [
+    {
+      "source": "Yelp",
+      "score": 4.3,
+      "count": 6,
+      "url": "https://www.yelp.co.uk/biz/freds-london-3"
+    },
+    {
+      "source": "Google Maps",
+      "label": "Loved by local guests",
+      "count": 170,
+      "url": "https://maps.app.goo.gl/69mfUyRDchGWMNWY8"
+    }
+  ],
+  "sources": [
+    "Google Maps",
+    "Yelp",
+    "Instagram @fredslondon",
+    "Facebook FredsSe4",
+    "Nextdoor"
+  ]
+}
